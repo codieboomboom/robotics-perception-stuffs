@@ -9,7 +9,9 @@ This repository documents useful materials in learning robotics perception.
 ## Deep-learning Computer Vision
 
 ## Sensor Fusion
-[3D RANSAC summary based on Udacity](https://medium.com/@ajithraj_gangadharan/3d-ransac-algorithm-for-lidar-pcd-segmentation-315d2a51351)
+- [3D RANSAC summary based on Udacity for Plane Segmentation](https://medium.com/@ajithraj_gangadharan/3d-ransac-algorithm-for-lidar-pcd-segmentation-315d2a51351)
+- Statistical Approaches to Multi-scale Point Cloud Processing Ranjith Unnikrishnan PhD Thesis The Robotics Institute Carnegie Mellon University May, 2008 - Region of Interest in reducing complexity of LiDAR point cloud for processing.
+- [Tutorial on Downsampling 3D PCD with Voxel Grid](https://adioshun.gitbooks.io/pcl/content/Tutorial/Filtering/pcl-cpp-downsampling-a-pointcloud-using-a-voxelgrid-filter.html)
 
 ## Machine Learning Basis
 
