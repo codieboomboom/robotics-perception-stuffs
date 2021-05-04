@@ -1,10 +1,16 @@
-# perception-alphabet-soup
+# Robotics Perception Stuffs
 
-This repository documents useful materials in learning robotics perception.
+This repository documents useful materials in learning robotics perception: SLAM, Classic Image Processing and Computer Vision, Deep Learning, etc.
+
+## Math Basics
+- [Essence of Linear Algebra by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- Linear Algebra Done Right (Book)
 
 ## Programming Basics
+- Basics programming course from University of Bonn - [Modern C++ for CV](https://www.ipb.uni-bonn.de/teaching/cpp-2020/)
 
 ## Classical Computer Vision
+- Online [Photogrammetry I & II](https://www.ipb.uni-bonn.de/photo12-2021/) by prof Cyril Stachniss of University of Bonn.
 
 ## Deep-learning Computer Vision
 
@@ -16,10 +22,8 @@ This repository documents useful materials in learning robotics perception.
 ## Machine Learning Basis
 
 ## Simultaneous Localization and Mapping (SLAM)
+- Graph-based SLAMs approach by pro Cyril Stachniss (University of Bonn) in [Mobile Sensing & Robotics II](https://www.ipb.uni-bonn.de/msr2-2021/)
+- [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss21/robotics/) by University of Freiburg
 - [From Cups to Consciousness (Part 3): Mapping your home with SLAM](https://towardsdatascience.com/from-cups-to-consciousness-part-3-mapping-your-home-with-slam-8a9129c2ed58)
-
-## 3D Mapping
-
-## Courses
 
 
