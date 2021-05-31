@@ -34,4 +34,8 @@ This repository documents useful materials in learning robotics perception: SLAM
 - [Fitting a plane from points](http://www.ilikebigbits.com/2015_03_04_plane_from_points.html)
 - [How To Represent 3D Data](https://towardsdatascience.com/how-to-represent-3d-data-66a0f6376afb)
 
+## Series
+- [CMU AirLab Tartan SLAM Series](http://theairlab.org/tartanslamseries/)
+- [AirLab Summer School 2020](http://theairlab.org/summer2020/)
+
 
