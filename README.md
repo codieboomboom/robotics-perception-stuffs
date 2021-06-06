@@ -11,6 +11,8 @@ This repository documents useful materials in learning robotics perception: SLAM
 
 ## Computer Vision
 - Online Course [Photogrammetry I & II](https://www.ipb.uni-bonn.de/photo12-2021/) by prof Cyril Stachniss of University of Bonn.
+- Computerphile's [How Blurs & Filters Work](https://youtu.be/C_zFhWdM4ic)
+- [Convolution vs Cross-correlation](https://glassboxmedicine.com/2019/07/26/convolution-vs-cross-correlation/)
 
 ## Deep-learning
 - [3D Point Cloud GAN based on Tree Structured Graph Convolutions](https://github.com/seowok/TreeGAN)
